@@ -1,10 +1,10 @@
 Hi 👋 My name is Osareniho Gabriel Oni
 ======================================
 
-Data analyst and Scientist
+Database Administrator, Data Science Enthusiast
 --------------------------
 
-I have spent the last four years learning to code. I started with HTML, CSS, JavaScript and built a couple of JavaSript apps. In 2023 I ventured into Web 3 development and now I have found this passion for Data Science and currently looking to build a career in Data analysis, Data Science, or Data engineering
+I am a Dynamic and result-oriented individual with a background in Database Administration, IT support, Health Insurance and Banking, equipped with comprehensive skills and knowledge in Database Administration, data science and analytics. Passionate about leveraging data-driven insights to solve complex problems and drive business growth. 
 
 * 🌍  I'm based in Nigeria
 * ✉️  You can contact me at [osareniho.oni@gmail.com](mailto:osareniho.oni@gmail.com)
