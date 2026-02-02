@@ -1,9 +1,3 @@
-Hi 👋 My name is Osareniho Gabriel Oni
-======================================
-
-Data Analyst / Analytics Engineer | Python, SQL, Cloud Data Platforms | ETL, Orchestration, Applied ML
---------------------------
-
 👋 About Me
 
 I am a data professional with experience spanning data analysis, analytics engineering, and applied data engineering. My work focuses on building reliable data pipelines, analyzing real-world datasets, and translating business questions into scalable data solutions.
